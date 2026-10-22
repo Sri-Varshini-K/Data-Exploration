@@ -1,4 +1,4 @@
-# Excel Data Exploration 📊
+# Excel Data Exploration 
 
 ## Project Overview
 Basic data exploration and analysis using Microsoft Excel on a product dataset.
